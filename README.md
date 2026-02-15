@@ -1,6 +1,6 @@
 <div align="center">
 
-# WhoMe?  → Nexus
+# Me?  → Nexus
 ---
 <div align="left">
   
